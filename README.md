@@ -27,7 +27,7 @@ A personal portfolio website showcasing my web development projects and skills.
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: edwinmwansa80@gmail.com
 - GitHub: [@Biggae01](https://github.com/Biggae01)
 - LinkedIn: [Edwin Mwansa](https://www.linkedin.com/in/edwin-mwansa-b4042223a/)
 
