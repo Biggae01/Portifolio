@@ -1336,6 +1336,11 @@ body {
     .education-item {
         flex-direction: column;
         text-align: center;
+        align-items: center;
+    }
+    
+    .education-icon {
+        margin-bottom: 1rem;
     }
 
     .projects-grid {
